@@ -39,5 +39,5 @@ It provides APIs for user management, booking, and real-time communication betwe
 2. Configure application.properties with your MySQL database credentials.
 
 3. Run the project with Maven or your IDE:
-  ```bash
-  mvn spring-boot:run
+   ```bash
+   mvn spring-boot:run
